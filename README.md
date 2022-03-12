@@ -1,6 +1,7 @@
 # Prak_ASD_sem4
-Ini repo keren banget yang buat akyu, ehe
+This repo is awesome. For my fortofolio, all good
 
-aku juga bakal update terus sejalan dengan pembuatan laporan
+I will update as the report is made
+so, stay tune! 🤗
 
-so, stay tune
+Please dont fork it! 😡
